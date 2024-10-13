@@ -1,4 +1,4 @@
-# Sign-language-translator-using-deep-learning
+# Deep Learning for Sign language Recognition
 
 This project implements a deep learning model to detect and classify American Sign Language (ASL) gestures in real-time using Convolutional Neural Networks (CNN). The system is designed to assist in communication by recognizing hand gestures and translating them into corresponding letters of the alphabet.
 
